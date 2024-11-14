@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon api.index",
     "start": "node index.js",
-    "build": "npm install --prefix my-prime-estate-backend-app"
+    "build": "npm install my-prime-estate-backend-app"
   },
   "author": "",
   "license": "ISC",
