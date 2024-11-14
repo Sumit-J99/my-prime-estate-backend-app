@@ -17,6 +17,8 @@
     "express": "^4.21.1",
     "mongoose": "^8.8.1",
     "path": "^0.12.7",
-    "serve-favicon": "^2.5.0"
+    "razorpay": "^2.9.5",
+    "serve-favicon": "^2.5.0",
+    "stripe": "^17.3.1"
   }
 }
