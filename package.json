@@ -6,23 +6,9 @@
   "scripts": {
     "dev": "nodemon api.index",
     "start": "node index.js",
+    "build": "npm run build",
     "dev": "npm install --prefix my-prime-estate-backend-app"
-  },//ab kya isko add karu repo mein ??
-  // push kardo
-  // gitignore to banayi nahi shit ab time lega
-  // cut kardo
-  // gitignore bana do
-  //node hi uda dete hai 
-  // uda do mujhe dikh nahi rahi node modules
-  // terminal dikh rha hia kya
-  // han dikh raha ab try karo add karke commit karne ki
-  // ye kya ho rha hai 
-  // vi mode mai hai :q! karke exit karo
-    // - m karke message dalo terminal pe
-    // ab push kardo
-    // processor atack gaya
-    // permission denied aagaya
-    // access dedo
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
