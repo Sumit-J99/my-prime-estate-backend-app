@@ -1,0 +1,37 @@
+{
+  "name": "my-prime-estate-backend-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon api.index",
+    "start": "node index.js",
+    "dev": "npm install --prefix my-prime-estate-backend-app"
+  },//ab kya isko add karu repo mein ??
+  // push kardo
+  // gitignore to banayi nahi shit ab time lega
+  // cut kardo
+  // gitignore bana do
+  //node hi uda dete hai 
+  // uda do mujhe dikh nahi rahi node modules
+  // terminal dikh rha hia kya
+  // han dikh raha ab try karo add karke commit karne ki
+  // ye kya ho rha hai 
+  // vi mode mai hai :q! karke exit karo
+    // - m karke message dalo terminal pe
+    // ab push kardo
+    // processor atack gaya
+    // permission denied aagaya
+    // access dedo
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.1",
+    "path": "^0.12.7",
+    "serve-favicon": "^2.5.0"
+  }
+}
